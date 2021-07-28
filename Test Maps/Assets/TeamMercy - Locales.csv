@@ -1,0 +1,32 @@
+Locale,RU,EN
+T_Play,Играть,Play
+T_Settings,Настройки,Settings
+T_Music,Музыка,Music
+T_ScreenModeFull,Полноэкранный,Fullscreen
+T_ScreenModeWind,Оконный,Windowed
+T_Restart,Переиграть [R],Restart [R]
+T_NextStage,Следующая миссия [E],Next mission [E]
+T_TowerUpgrage,Улучшить,Upgrade
+T_Language,Язык,Language
+T_ScreenModeLabel,Режим окна,Screen Mode
+T_ScreenResolutionLabel,Размер окна,Screen Resolution
+T_HeroesButton,Герои,Heroes
+T_Sound,Звуки,Sounds
+T_Volume,Громкость,Volume
+T_Back,Назад [Esc],Back [Esc]
+T_Victory,Победа,Victory
+T_Defeat,Поражение,Defeat
+T_LeaveBattle,Покинуть битву?,Leave Battle?
+T_Yes,Да [Enter],Yes [Enter]
+T_No,Нет [Esc],No [Esc]
+T_Coins,Монеты: ,Coins: 
+T_Vanguard,Авангард,Vanguard
+T_Sniper,Снайпер,Sniper
+T_ToMap,На карту [Esc],To map [Esc]
+T_Steel,Сталь,Steel
+T_Damage,Урон,Damage
+T_ASPD,Скорострельность,Attack Speed
+T_OffSounds,Выключить звук,Off Sounds
+T_LeaveGame,Покинуть игру?,Leave Game?
+T_InDeveloping,В разработке,In developing
+T_Stormtrooper,Штурмовик,Stormtrooper

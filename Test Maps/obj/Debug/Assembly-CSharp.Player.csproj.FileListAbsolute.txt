@@ -1,0 +1,3 @@
+C:\Users\dmx\Examples\Test Maps\obj\Debug\Assembly-CSharp.Player.csprojAssemblyReference.cache
+C:\Users\dmx\Examples\Test Maps\obj\Debug\Assembly-CSharp.Player.csproj.CoreCompileInputs.cache
+C:\Users\dmx\Examples\Test Maps\obj\Debug\Assembly-CSharp.dll

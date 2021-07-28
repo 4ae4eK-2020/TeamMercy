@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c86dbd70-d821-4ccc-a8ec-5c18f5422225" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene Management/ToggleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/URLManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene Management/KeyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene Management/JsonManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene Management/SettingsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene Management/StopMusic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene Management/BattleVolume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene Management/SaveMusic.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/UpgradeManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Upfrade Drons/ChooseHero.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/JsonStruct.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/EnemyParams.cs" />
+      <option value="$PROJECT_DIR$/Assets/tsconfig.json" />
+      <option value="$PROJECT_DIR$/Builds/Test Maps_Data/player_info.json" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/SoundManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/BattleVolumeManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/User Info/playerInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CSVManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CSV/NewBehaviourScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CSV/CSVManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CSV/LanguageManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/URLManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/SaveMusic.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/BattleVolume.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scenes/InputGetter.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Update Drons/SteelCount.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/Heroes Info.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/SceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/KeyManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/HeroesInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/Quit.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/ShowParams.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/User Info/MissionStruct.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/SettingsManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/User Info/SettingsStruct.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/JsonManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/ToggleController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/MissionStagement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/SceneScale.cs" />
+      <option value="$PROJECT_DIR$/Assets/settings.json" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/StopMusic.cs" />
+      <option value="$PROJECT_DIR$/Builds/Team Mercy_Data/mission_1.json" />
+      <option value="$PROJECT_DIR$/Builds/Team Mercy_Data/mission_2.json" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CSV/Locale.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/LineRender.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/SetWaves.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/EnemyController.cs" />
+      <option value="$PROJECT_DIR$/Assets/data_1.json" />
+      <option value="$PROJECT_DIR$/Assets/data_0.json" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/Params.cs" />
+      <option value="$PROJECT_DIR$/Assets/data_2.json" />
+      <option value="$PROJECT_DIR$/Assets/mission_3.json" />
+      <option value="$PROJECT_DIR$/Assets/mission_2.json" />
+      <option value="$PROJECT_DIR$/Assets/mission_1.json" />
+      <option value="$PROJECT_DIR$/Assets/player_info.json" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/EndLevel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/EnemySpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/HeroSetup.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Battleground/HeroController.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1tMCRRkYX4HXQuT9wBbGhlNJgTA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Team Mercy\Team Mercy.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\dmx\Examples\Test Maps\Team Mercy" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c86dbd70-d821-4ccc-a8ec-5c18f5422225" name="Default Changelist" comment="" />
+      <created>1622569573139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622569573139</updated>
+      <workItem from="1622569598839" duration="775000" />
+      <workItem from="1622644431377" duration="4458000" />
+      <workItem from="1622650985201" duration="3603000" />
+      <workItem from="1622695075341" duration="242000" />
+      <workItem from="1622695434565" duration="440000" />
+      <workItem from="1622706818274" duration="10594000" />
+      <workItem from="1622732908062" duration="73000" />
+      <workItem from="1622796870211" duration="9432000" />
+      <workItem from="1622893776298" duration="1317000" />
+      <workItem from="1622899854227" duration="1904000" />
+      <workItem from="1623063796349" duration="2004000" />
+      <workItem from="1623341559555" duration="1141000" />
+      <workItem from="1623405767604" duration="9906000" />
+      <workItem from="1623427749862" duration="7122000" />
+      <workItem from="1623471823241" duration="5918000" />
+      <workItem from="1623504380993" duration="5571000" />
+      <workItem from="1623577119470" duration="4565000" />
+      <workItem from="1623583305969" duration="3215000" />
+      <workItem from="1623607235824" duration="1963000" />
+      <workItem from="1623660568028" duration="20264000" />
+      <workItem from="1623686197039" duration="1036000" />
+      <workItem from="1623738550652" duration="311000" />
+      <workItem from="1623915727917" duration="70000" />
+      <workItem from="1623932270174" duration="899000" />
+      <workItem from="1623994629412" duration="8502000" />
+      <workItem from="1624009549540" duration="2111000" />
+      <workItem from="1624031656435" duration="2817000" />
+      <workItem from="1624084444700" duration="9303000" />
+      <workItem from="1624100687845" duration="5710000" />
+      <workItem from="1624270049125" duration="1169000" />
+      <workItem from="1624284061504" duration="15000" />
+      <workItem from="1624522251181" duration="1513000" />
+      <workItem from="1624540680005" duration="8227000" />
+      <workItem from="1624598799945" duration="559000" />
+      <workItem from="1624605852477" duration="1661000" />
+      <workItem from="1624623300902" duration="3803000" />
+      <workItem from="1624633670847" duration="7040000" />
+      <workItem from="1624706569418" duration="25000" />
+      <workItem from="1624720959182" duration="42000" />
+      <workItem from="1624973962543" duration="4715000" />
+      <workItem from="1624983600665" duration="3543000" />
+      <workItem from="1625315698618" duration="43000" />
+      <workItem from="1625315959471" duration="465000" />
+      <workItem from="1625323997186" duration="2083000" />
+      <workItem from="1625372939457" duration="2563000" />
+      <workItem from="1625378476972" duration="12242000" />
+      <workItem from="1625401305550" duration="5280000" />
+      <workItem from="1625410895590" duration="2790000" />
+      <workItem from="1625504507838" duration="1327000" />
+      <workItem from="1625541097851" duration="4099000" />
+      <workItem from="1625564156654" duration="1038000" />
+      <workItem from="1625636927365" duration="1482000" />
+      <workItem from="1625639354954" duration="2232000" />
+      <workItem from="1625641990528" duration="402000" />
+      <workItem from="1625798583343" duration="922000" />
+      <workItem from="1625799935433" duration="6148000" />
+      <workItem from="1625839348453" duration="4549000" />
+      <workItem from="1625922305421" duration="1669000" />
+      <workItem from="1625972419904" duration="6503000" />
+      <workItem from="1625999915459" duration="788000" />
+      <workItem from="1626017021919" duration="1856000" />
+      <workItem from="1626065184976" duration="1191000" />
+      <workItem from="1626432332496" duration="4000" />
+      <workItem from="1627110440600" duration="5458000" />
+      <workItem from="1627366042731" duration="6398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

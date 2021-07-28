@@ -1,0 +1,10 @@
+﻿{
+  "HeroID": 3,
+  "selectedHero": {
+    "HeroID": 3,
+    "damage": 15,
+    "damageSpeed": 0.4,
+    "cost": 20,
+    "name": "Stormtrooper"
+  }
+}
